@@ -24,7 +24,7 @@ The goal of this project is to practice:
 
 ### Dashboard Overview
 
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](dashboard.png)
 
 ---
 
