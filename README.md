@@ -20,11 +20,7 @@ The goal of this project is to practice:
 
 ## Dashboard Preview
 
-> Replace these images with your own screenshots.
-
-### Dashboard Overview
-
-![Dashboard](dashboard.png)
+> Replace these images with your own screenshorts
 
 ---
 
